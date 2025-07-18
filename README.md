@@ -12,9 +12,9 @@ Identify high-value customer groups and recommend targeted marketing strategies
 ## 📁 Project Structure
 
 
-- customer_analytics_segmentation.ipynb   # Jupyter notebook for analysis
-- Report.pdf                              # Final PDF report
-- customer_segmentation_data.csv          # Dataset 
+- customer_analytics_segmentation.ipynb
+- Report.pdf                             
+- customer_segmentation_data.csv          
 
 
 ## 🧠 Insights Summary
